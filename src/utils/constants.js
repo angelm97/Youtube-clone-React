@@ -12,11 +12,11 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://png2.cleanpng.com/sh/4fc9c87fb7611e696f3f18188a9e7a70/L0KzQYm3VcI5N6RAR91yc4Pzfri0gB9ueKZ5feQ2aXPyfsS0kvVlNZpoh9C2ZHX2ebj1TfZqdJ4ye9H2cIX3dcO0ifNwdqQyied7YX6wRbO3g8hkbGE2SNUAOUOxSIK5VcUzP2c2TaQCNUS8QYS9UMY5P191htk=/kisspng-computer-icons-red-icon-design-film-computer-icons-quran-5b0c8cd010c593.8125527615275491360687.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+ 
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
